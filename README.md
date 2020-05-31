@@ -1,7 +1,7 @@
 # IAA-python
 This repository has only a few python exercises performed at the IAA graduate level.
 </br> </br>
-In the exercise module, we have five exercises and their descriptions. Each exercise has some tests in the tests folder
+In the exercise module, we have seven exercises and their descriptions. Each exercise has some tests in the tests folder
 
 ## Run:
 - clone this repository
